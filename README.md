@@ -2,10 +2,10 @@
 Module 12 | Project 10 | U Vote It
 
 ## Description
-A simple, text-based RPG created as an introduction to Node.js, test-driven development, and object-oriented programming. A command-line role-playing game (RPG) in which the user battles a series of enemies whose health and stats can be sustained by taking a potion. The game creates new objects using JavaScript constructor functions, and also implements basic code tests using the Jest framework.
+Application that stores structured data in a relational database and exposes data with an API. The back end will consist of a relational database behind an API. 
 
 ## Scenario
-The local zoo has received funding to build a new online catalog, and they've asked you to create a web server for a front-end application they’re developing, called Zoo Keepr. This site’s data will be stored on the server you create. This will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.
+U Develop It is starting a new fiscal year, and it's time to pick a new president. Of course, the group is developing its own app for voting. Some members have already started building the front end of the application, but they need volunteers to build the back end.
 
 ## Table of Contents
 * [Instructions](#Instructions)
@@ -17,14 +17,8 @@ The local zoo has received funding to build a new online catalog, and they've as
 2. After installing the required packages, use the command line to navigate to the root of the application and run `node app`.  Follow prompts to enter player name and play the RPG. 
 
 ### Tools
-* Express.js
-- Command line: npm list express
-- Version: express@4.18.1
-* Insomnia
-- Command line:
-* [Heroku](https://id.heroku.com/login)
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
 
 ## Mock Up
 The following image shows the web application's appearance:
-![Mock Up](./assets/images/100-final-app.png)
+![Mock Up](./assets/images/100-sql-query.png)
