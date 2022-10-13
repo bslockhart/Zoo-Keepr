@@ -18,7 +18,6 @@ U Develop It is starting a new fiscal year, and it's time to pick a new presiden
 
 ### Tools
 
-
 ## Mock Up
 The following image shows the web application's appearance:
 ![Mock Up](./assets/images/100-sql-query.png)
